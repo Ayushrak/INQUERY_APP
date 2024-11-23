@@ -1,5 +1,5 @@
 # InQuera 
-## Team WIZARD 
+
 
 ## Dependencies for frontend (Reactjs)
 ```
