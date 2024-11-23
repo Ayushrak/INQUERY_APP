@@ -1,8 +1,5 @@
 # InQuera 
-## Team WIZARD - HackNITP 4.0
-Youtube video link: <a href="https://youtu.be/bZxzDV9bH6o" target="_blank">Youtube video</a>
-
-PPT link: <a href="https://docs.google.com/presentation/d/1Zt2D-DKPrSM32SDMJQnaymG3YyG6-hKY/edit?usp=sharing&ouid=102795968430344903675&rtpof=true&sd=true" target="_blank">PPT </a>
+## Team WIZARD 
 
 ## Dependencies for frontend (Reactjs)
 ```
